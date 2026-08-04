@@ -1,5 +1,5 @@
 # BoxTurtle V1.0
-BoxTurtle Automated Filament Control
+BoxTurtle Automated Filament Changer
 
 ![BT_Render](https://github.com/user-attachments/assets/c06e961f-8d1d-41ae-9c80-036669ba2657)
 [![Join me on Discord](https://discord.com/api/guilds/1229586267671629945/widget.png?style=banner2)](https://discord.gg/eT8zc3bvPR)
@@ -11,7 +11,7 @@ The goal of BoxTurtle is to deliver a user experience as close to an AMS as poss
 If you appreciate the work we are doing, you can support us [here](https://www.paypal.com/donate/?hosted_button_id=J4WRJBYGFYHLE).
 
 # BoxTurtle sourcing/vendors
-While BoxTurtle can be mostly [self-sourced](https://www.armoredturtle.xyz/docs/boxturtle/bom.html), some vendors offer partial or full BoxTurtle kits. Vetted vendors have dedicated vendor channels on the Armored Turtle Discord and are on the [Vendor List](https://www.armoredturtle.xyz/docs/boxturtle/vendors.html) on the Armored Turtle documentation site.
+While BoxTurtle can be mostly [self-sourced](https://www.armoredturtle.com), some vendors offer partial or full BoxTurtle kits. Vetted vendors have dedicated vendor channels on the Armored Turtle Discord and are on the [Vendor List](https://www.armoredturtle.com) on the Armored Turtle documentation site.
 
 If you purchase a kit from a vendor not on this list, it has not been validated in any way by the ArmoredTurtle team for either quality or completeness. For best results we recommend using a trusted vendor from the list linked above whenever possible. If you are a vendor and would like to be added to this list, please open a ticket on our Discord to request being added.
 
@@ -22,4 +22,4 @@ If you have questions about the legitimacy of a kit, we highly suggest you *rese
 [Caveat emptor](https://en.wikipedia.org/wiki/Caveat_emptor)
 
 # Documentation, BOM, Assembly Manuals, etc.
-For more information and documentation, please visit the [official ArmoredTurtle documentation site](https://www.armoredturtle.xyz/docs/index.html).
+For more information and documentation, please visit the [official ArmoredTurtle documentation site](https://www.armoredturtle.com).
